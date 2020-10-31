@@ -1,0 +1,19 @@
+/*Rümeysa Coşkun*/
+/*Basit düzey CSS kodu örneği.*/
+body{
+background-color:tomato;
+}
+h1{
+background-color:green;
+color:pink;
+border: 4px solid purple;
+padding:30px;
+margin:50px;
+}
+p{
+background-color:yellow;
+color:pink;
+border: 6px solid powderblue;
+padding:50px;
+margin:80px;
+}
